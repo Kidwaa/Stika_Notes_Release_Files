@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Installers and updates are signed: git must never touch their bytes.
+*.dmg binary
+*.exe binary
+*.gz binary
