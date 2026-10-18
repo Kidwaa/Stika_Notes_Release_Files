@@ -1,19 +1,19 @@
 {
   "version": "0.3.7",
-  "notes": "Smoother boards: two-finger scrolling and pinch-to-zoom are much smoother, and small notes grow in place when you point at them and reliably settle back down. Stika is also lighter: idle notes no longer keep waking up, switching desktops does less work, and the download is about 40% smaller.",
-  "pub_date": "2026-10-18T08:09:07Z",
+  "notes": "Smoother boards: two-finger scrolling and pinch-to-zoom are much smoother, and small notes grow in place when you point at them and reliably settle back down. Stika is also lighter: idle notes no longer keep waking up, switching desktops does less work, and downloads are smaller (the Mac one is almost half the size).",
+  "pub_date": "2026-10-18T08:09:25Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.7-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2QwTlZxNmpiek1aemt3Y3BQVjZhM0ZCSXNHdFJCQnJ6YmhXV2xvUHVCZmhuSnBwRVJnanZEVWJHTUtPMURrazZ2ZU13Y2ZwellOMk1GTDZVMmd6YlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTQ3CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNwpWOUJ0ZVE3NTB1VXMyQmpHT2FkZzBDanBLQmRuMVNScExiOGowbFg0Sko4WTV0dk9WQ2dOTm9OMGt0c3o2cUZzckRUcDAxbEhOQmxnNHNmRjNPblRCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1RCUlhINE9LZkpwQVo1Ri8rQVJMSW1RZ3JNdFJLZnVUMStPa3Nob2RrNzNFVmY3cjlWaWowNFlVUDNUYmV0K0VPd21FSEFaM1hTUkZsRkhnbFc0SGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTY1CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNwpGa0JzQ3dYZjhqT21wS3J5aWxYVjRTdjBORUszd1NKYUdZbVpZUVZ5cjdGY2RzenFTdHc0NmgwenFCQUJoR09VRmVCWEJqVnZOaTNUL1pzUnpWenNBdz09Cg=="
     },
     "darwin-x86_64": {
       "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.7-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2QwTlZxNmpiek1aemt3Y3BQVjZhM0ZCSXNHdFJCQnJ6YmhXV2xvUHVCZmhuSnBwRVJnanZEVWJHTUtPMURrazZ2ZU13Y2ZwellOMk1GTDZVMmd6YlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTQ3CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNwpWOUJ0ZVE3NTB1VXMyQmpHT2FkZzBDanBLQmRuMVNScExiOGowbFg0Sko4WTV0dk9WQ2dOTm9OMGt0c3o2cUZzckRUcDAxbEhOQmxnNHNmRjNPblRCUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1RCUlhINE9LZkpwQVo1Ri8rQVJMSW1RZ3JNdFJLZnVUMStPa3Nob2RrNzNFVmY3cjlWaWowNFlVUDNUYmV0K0VPd21FSEFaM1hTUkZsRkhnbFc0SGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTY1CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNwpGa0JzQ3dYZjhqT21wS3J5aWxYVjRTdjBORUszd1NKYUdZbVpZUVZ5cjdGY2RzenFTdHc0NmgwenFCQUJoR09VRmVCWEJqVnZOaTNUL1pzUnpWenNBdz09Cg=="
     },
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.7-windows-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1FwdU1OOURlSU51dVpCNlYwaHE1UTBaVTl5ZGQ3TzhVUzhFejg2Y0t6SjhheXdiYUh3QUtHS01NZk1iMDJkWVhiaVp5T0ZWZmVRR0FNU1ZLa1hpQUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTQ3CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctd2luZG93cy1zZXR1cC5leGUJdmVyc2lvbjowLjMuNwprQnQ1V0sxQjBJZ0xUUUp6RUtCRGg4MEVCcUZPSTRyQ1VJUzJVQUNNVG52QTVnRzJXQXJZT2RWcjZXTGlycGloSk1HUEtXWng5RFQ0ZElMSmlKdE9CQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1UzK2s3TUxPcFk4VTVsTHlQL3RNU0l1cUJPZHVvNWdGb1lvUk9naldNRDgzcFdJWlpxaU8vcWhQQzR5cFhqb3Q4dHh0L0VSUzQ4Y3RBaW5TeG1SRFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEwOTY1CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjctd2luZG93cy1zZXR1cC5leGUJdmVyc2lvbjowLjMuNwpkNEpLYm5MU2w0QlhwZS9KQmUyaFE0MXlyU3ZidG0xREZ6N01sL3RlSTdNaThOYVRLV3prNzFEL3YvZElLcHZSQXUvTm9mdUlDdzFaT1VmRkpaUHNEdz09Cg=="
     }
   },
   "downloads": {
