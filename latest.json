@@ -1,31 +1,31 @@
 {
-  "version": "0.3.5",
-  "notes": "Claude and ChatGPT can do more with your notes: change colours, pens and paper, fold notes and boards, tie notes together with string, rename boards, move notes and boards between desktops, and put notes back from the Trash.",
-  "pub_date": "2026-10-16T04:54:48Z",
+  "version": "0.3.6",
+  "notes": "Boards zoom and scroll: pinch or ⌘-scroll to zoom, two fingers to move around, Fit all to see every note, and Expand to fill the screen. Small notes lift up so you can read them. Resize notes from their corner, the Note size menu or ⌘= / ⌘−. Claude and ChatGPT can lay out a whole board, and you can undo it in one click. New boards are chalkboards, and string comes in six more colours.",
+  "pub_date": "2026-10-18T02:28:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.5-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1I4VjVpbFNTUlAvYU9PNGlncFBiZzVnQ1gyTjJpNDIzYzNHS1EyN05hWDByOVErb3RzNll5ZVR5UTRyQnh1VUVyREcrd0t6Mm5aSXRQWFdVenBXUVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI2NDg4CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjUtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNQpBblhwRTZPNTdwQXZUUy9XaWx3MjdLdUZwT0JNQy9pdmRna3dkSUJsNXIzdGVkcmdQYUNyWURLVXBoVTNVVktsVGFzWjdhTnVwTlRDcEpic3dMOE5BZz09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.6-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1h5YlFjd3VjWmVmZDZsdzlTQU9QRDNZTy94YUw1NmEzRzQzS3J5VlRDMlB3dVFwS0xWcEpJTDd4WGxVY0hUOVJUU09zSVlOZmoxV0hxT1NFZUtsWEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjkwNTI5CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjYtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNgpOMTNIOVZONFFheEJkbWxCRmY4ZW5pNVFZMWIrOWtPUk44ZExuQkQvdjVSR3VrcElVTGU1Vk1KZUZ3WUhWTHZiV2oyNnV0aW52bzdNeXFzM1hsKzhDQT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.5-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1I4VjVpbFNTUlAvYU9PNGlncFBiZzVnQ1gyTjJpNDIzYzNHS1EyN05hWDByOVErb3RzNll5ZVR5UTRyQnh1VUVyREcrd0t6Mm5aSXRQWFdVenBXUVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI2NDg4CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjUtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNQpBblhwRTZPNTdwQXZUUy9XaWx3MjdLdUZwT0JNQy9pdmRna3dkSUJsNXIzdGVkcmdQYUNyWURLVXBoVTNVVktsVGFzWjdhTnVwTlRDcEpic3dMOE5BZz09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.3.6-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1h5YlFjd3VjWmVmZDZsdzlTQU9QRDNZTy94YUw1NmEzRzQzS3J5VlRDMlB3dVFwS0xWcEpJTDd4WGxVY0hUOVJUU09zSVlOZmoxV0hxT1NFZUtsWEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjkwNTI5CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjYtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNgpOMTNIOVZONFFheEJkbWxCRmY4ZW5pNVFZMWIrOWtPUk44ZExuQkQvdjVSR3VrcElVTGU1Vk1KZUZ3WUhWTHZiV2oyNnV0aW52bzdNeXFzM1hsKzhDQT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.5-windows-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2ZyWTN0Zm1sVnVndUUzNDZzMmoyaGFBTlQxc2wvaVZVb0ZWRmNvQlcrQ3c3Yk9HY0dRRmwyN1NEWUQrVkdTUUcvY1VGNTVncDJ5UGVxTWlpaGN3NGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI2NDg4CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjUtd2luZG93cy1zZXR1cC5leGUJdmVyc2lvbjowLjMuNQpVemVQRWNQemMwT1lwZjJtN0tNOGtoUWUvRlYyMVR6a3BxS0pkUENVVzFNYVFCVksvZnhnNHowenlKUWQvU0o4aFY0dG1hRlJqK0VkdlNOZEJEN0ZCQT09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.6-windows-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1FiTHZXYStRdVBkU0wranB4c2VrZFdkRDNTc1lYYzFScndBU09iRXFqdzJVaXQ1VzhpWTl5UENBVysySXBYamNMd2E1Z09PY3lDbUZvTGtLaWx6aFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjkwNTI5CWZpbGU6U3Rpa2EtTm90ZXMtMC4zLjYtd2luZG93cy1zZXR1cC5leGUJdmVyc2lvbjowLjMuNgpiZWJ0bVl2UzI3TjIyZC9XYk1aL0dvNWowcmMzakNzMTN2ejVDQ1RMNXdqMmpLa1ZpbWFVc3hUZktKUGNvRDZua29SMEppMXZiakR1alhFREtxaldEQT09Cg=="
     }
   },
   "downloads": {
     "mac": {
-      "file": "Stika-Notes-0.3.5-mac.dmg",
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.5-mac.dmg",
-      "size": 10695801
+      "file": "Stika-Notes-0.3.6-mac.dmg",
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.6-mac.dmg",
+      "size": 10775784
     },
     "windows": {
-      "file": "Stika-Notes-0.3.5-windows-setup.exe",
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.5-windows-setup.exe",
-      "size": 4195069
+      "file": "Stika-Notes-0.3.6-windows-setup.exe",
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.3.6-windows-setup.exe",
+      "size": 4229543
     }
   }
 }
