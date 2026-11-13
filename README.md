@@ -4,15 +4,16 @@ Sticky notes that look like paper and stay on the desktop you put them on. For M
 
 **More about it:** [kidwaarif.com/side-quests/stika-notes](https://kidwaarif.com/side-quests/stika-notes)
 
-## Download 0.4.0
+## Download 0.5.0
 
-- **Mac** (Apple Silicon and Intel, macOS 13+): [Stika-Notes-0.4.0-mac.dmg](downloads/Stika-Notes-0.4.0-mac.dmg) · 6.1 MB
-- **Windows** (10 and 11): [Stika-Notes-0.4.0-windows-setup.exe](downloads/Stika-Notes-0.4.0-windows-setup.exe) · 3.7 MB
+- **Mac** (Apple Silicon and Intel, macOS 13+): [Stika-Notes-0.5.0-mac.dmg](downloads/Stika-Notes-0.5.0-mac.dmg) · 6.2 MB
+- **Windows** (10 and 11): [Stika-Notes-0.5.0-windows-setup.exe](downloads/Stika-Notes-0.5.0-windows-setup.exe) · 3.8 MB
 
 The first time you open it, macOS or Windows asks you to confirm, because the app isn't signed with a paid certificate yet. After that, Stika Notes updates itself from inside the app.
 
 ## Older versions
 
+- 0.4.0: [Mac](downloads/Stika-Notes-0.4.0-mac.dmg) · [Windows](downloads/Stika-Notes-0.4.0-windows-setup.exe)
 - 0.3.14: [Mac](downloads/Stika-Notes-0.3.14-mac.dmg) · [Windows](downloads/Stika-Notes-0.3.14-windows-setup.exe)
 - 0.3.13: [Mac](downloads/Stika-Notes-0.3.13-mac.dmg) · [Windows](downloads/Stika-Notes-0.3.13-windows-setup.exe)
 - 0.3.12: [Mac](downloads/Stika-Notes-0.3.12-mac.dmg) · [Windows](downloads/Stika-Notes-0.3.12-windows-setup.exe)
