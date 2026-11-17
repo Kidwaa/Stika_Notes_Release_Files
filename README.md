@@ -4,14 +4,15 @@ Sticky notes that look like paper and stay on the desktop you put them on. For M
 
 **More about it:** [kidwaarif.com/side-quests/stika-notes](https://kidwaarif.com/side-quests/stika-notes)
 
-## Download 0.6.0
+## Download 0.7.0
 
-- **Mac** (Apple Silicon and Intel, macOS 13+): [Stika-Notes-0.6.0-mac.dmg](downloads/Stika-Notes-0.6.0-mac.dmg) · 6.2 MB
+- **Mac** (Apple Silicon and Intel, macOS 13+): [Stika-Notes-0.7.0-mac.dmg](downloads/Stika-Notes-0.7.0-mac.dmg) · 6.2 MB
 
 It's signed and checked by Apple, so it opens like any other app. After that, Stika Notes updates itself from inside the app.
 
 ## Older versions
 
+- 0.6.0: [Mac](downloads/Stika-Notes-0.6.0-mac.dmg)
 - 0.5.0: [Mac](downloads/Stika-Notes-0.5.0-mac.dmg)
 - 0.4.0: [Mac](downloads/Stika-Notes-0.4.0-mac.dmg)
 - 0.3.14: [Mac](downloads/Stika-Notes-0.3.14-mac.dmg)

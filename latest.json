@@ -1,22 +1,22 @@
 {
-  "version": "0.6.0",
-  "notes": "Stika Notes is now signed and checked by Apple, so it opens straight away with no \"Open Anyway\" step. The Dashboard also shows where to find the phone app: in How it works, and in Settings → Sync & backup.",
-  "pub_date": "2026-11-17T04:07:42Z",
+  "version": "0.7.0",
+  "notes": "Sync through iCloud as well as Google Drive. Sync, AI assistants and Preferences each have their own page in the Dashboard, with fuller steps for connecting Claude or ChatGPT. Paper effects are always on. The daily backup is gone: syncing keeps your notes on every device.",
+  "pub_date": "2026-11-17T10:07:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.6.0-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2NtWnpDWkM4T3Bnb0Q0MDM1RSsrdVJLOVdqV3dEV01YcnZYSjcrTXBrWUhDSDNZV1NibkdjaDdrRmI2RzdwYkJUU0lCUDErd1RoMDRwYWNSRTV1NndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg4NDYyCWZpbGU6U3Rpa2EtTm90ZXMtMC42LjAtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjYuMAp3dTFvWk5HUGFTRHdOcU9HRmorUUxURVA3NWRkMTZIcTI3bHQwaFhnTlMydUpWT0RldHhHbThoZktKRDd4bnBPWWV2K3JOTktBMnlGQ29YU3hLTmNCQT09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2YwU0RLNnFWMlpURDdrWjZVN2VoOFFYYktRQmVtYTFteGJad0k3SzFDQWhRNEE2RXIwRmlaR2hJWnp1Y1Yzay9ZekE5ZG1VSU43bEFtNUFMaHJac1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEwMDQyCWZpbGU6U3Rpa2EtTm90ZXMtMC43LjAtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMAo0N0RLVktFUXZFbmNSN2NvWUZiR0U4c1FYWUt0Z3dQZkhGYzRXZG0zVUw4WUlKTkdpMHlhSUVpNXU2OVVEeEhlbnBUWGxtZ0ZOUGdrN21tb0NEL1JCZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.6.0-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2NtWnpDWkM4T3Bnb0Q0MDM1RSsrdVJLOVdqV3dEV01YcnZYSjcrTXBrWUhDSDNZV1NibkdjaDdrRmI2RzdwYkJUU0lCUDErd1RoMDRwYWNSRTV1NndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg4NDYyCWZpbGU6U3Rpa2EtTm90ZXMtMC42LjAtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjYuMAp3dTFvWk5HUGFTRHdOcU9HRmorUUxURVA3NWRkMTZIcTI3bHQwaFhnTlMydUpWT0RldHhHbThoZktKRDd4bnBPWWV2K3JOTktBMnlGQ29YU3hLTmNCQT09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2YwU0RLNnFWMlpURDdrWjZVN2VoOFFYYktRQmVtYTFteGJad0k3SzFDQWhRNEE2RXIwRmlaR2hJWnp1Y1Yzay9ZekE5ZG1VSU43bEFtNUFMaHJac1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTEwMDQyCWZpbGU6U3Rpa2EtTm90ZXMtMC43LjAtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMAo0N0RLVktFUXZFbmNSN2NvWUZiR0U4c1FYWUt0Z3dQZkhGYzRXZG0zVUw4WUlKTkdpMHlhSUVpNXU2OVVEeEhlbnBUWGxtZ0ZOUGdrN21tb0NEL1JCZz09Cg=="
     }
   },
   "downloads": {
     "mac": {
-      "file": "Stika-Notes-0.6.0-mac.dmg",
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.6.0-mac.dmg",
-      "size": 6500204
+      "file": "Stika-Notes-0.7.0-mac.dmg",
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.7.0-mac.dmg",
+      "size": 6552360
     }
   }
 }
