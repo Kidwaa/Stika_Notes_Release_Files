@@ -1,22 +1,22 @@
 {
-  "version": "0.7.2",
-  "notes": "A tidier board menu with icons, and ⌘N for a new note on a board. How it works is now a set of tricks to discover, ticking themselves off as you use them. Peek (⌃⌥S) now works over full-screen apps too. Old notes age more naturally, with tea-coloured edges and the odd coffee ring.",
-  "pub_date": "2026-11-19T03:08:39Z",
+  "version": "0.7.3",
+  "notes": "A new iPhone & iPad page in the Dashboard: scan the QR code, or share the App Store link by AirDrop, Messages or Mail.",
+  "pub_date": "2026-11-21T01:59:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.2-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1pER1dJSzlXTUtNTVBzODlsRkVVRVVabTVFYUVGcFFXUzBiNlA3MnRtRVpoWEV3UHd0TituOE1Fc05SVnV2b3NjbFBOOW5icmRua0tGUVE2SG15Wmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU3NzE5CWZpbGU6U3Rpa2EtTm90ZXMtMC43LjItbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMgp4Unc4R2NRakhWWGcwV2NvRGJxb2pjMXhVVm42OEhNY2wrYUtoOWE0RldQeG0vUzFQTDhvNVlhVVNidXFuNkpYVGJIVHE4QXZXR0R0cFYySFlNZDJDZz09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.3-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2R3RXVOZzNVdHdDZEVSOVYyWXd2NVR4ZXRwOURLVHgxdWMxTWxBbHhxMVE0SHU5UHBmZkc1QXpYcWtGSGI0NnBrOTdnWXk1Z1RPOUJRYjVGU25VYkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2Mzk2CWZpbGU6U3Rpa2EtTm90ZXMtMC43LjMtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMwpsZ2N4Qm9BWHlsYzFCRjZGMm9KR0FkMTUwd2drSnJ5T2ZEaE5xaUltZUNPeUFuemxpSW8xK2tHd2h5UlpZcEQwQSt3MVkvSmdyUXBSYkJsbXlEOW5BZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.2-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc1pER1dJSzlXTUtNTVBzODlsRkVVRVVabTVFYUVGcFFXUzBiNlA3MnRtRVpoWEV3UHd0TituOE1Fc05SVnV2b3NjbFBOOW5icmRua0tGUVE2SG15Wmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU3NzE5CWZpbGU6U3Rpa2EtTm90ZXMtMC43LjItbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMgp4Unc4R2NRakhWWGcwV2NvRGJxb2pjMXhVVm42OEhNY2wrYUtoOWE0RldQeG0vUzFQTDhvNVlhVVNidXFuNkpYVGJIVHE4QXZXR0R0cFYySFlNZDJDZz09Cg=="
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/updates/Stika-Notes-0.7.3-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjBVRlRIbDdYc2R3RXVOZzNVdHdDZEVSOVYyWXd2NVR4ZXRwOURLVHgxdWMxTWxBbHhxMVE0SHU5UHBmZkc1QXpYcWtGSGI0NnBrOTdnWXk1Z1RPOUJRYjVGU25VYkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2Mzk2CWZpbGU6U3Rpa2EtTm90ZXMtMC43LjMtbWFjLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMwpsZ2N4Qm9BWHlsYzFCRjZGMm9KR0FkMTUwd2drSnJ5T2ZEaE5xaUltZUNPeUFuemxpSW8xK2tHd2h5UlpZcEQwQSt3MVkvSmdyUXBSYkJsbXlEOW5BZz09Cg=="
     }
   },
   "downloads": {
     "mac": {
-      "file": "Stika-Notes-0.7.2-mac.dmg",
-      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.7.2-mac.dmg",
-      "size": 6558212
+      "file": "Stika-Notes-0.7.3-mac.dmg",
+      "url": "https://raw.githubusercontent.com/Kidwaa/Stika_Notes_Release_Files/main/downloads/Stika-Notes-0.7.3-mac.dmg",
+      "size": 6570004
     }
   }
 }
